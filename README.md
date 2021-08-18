@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abbas Ali 
+-  I completed my BE in computer science from BITS pilani ....
+-  Currently working at directi as a Software Engineer
