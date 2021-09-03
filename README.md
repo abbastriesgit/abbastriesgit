@@ -1,3 +1,10 @@
 - 👋 Hi, I’m Abbas Ali 
--  I completed my BE in computer science from BITS pilani ....
--  Currently working at directi as a Software Engineer
+-  I completed my BE in computer science from BITS pilani.
+-  Currently working at Media.net as a Software Developer Engineer.
+-  I enjoy solving algorithmic problems and designing scalable and robust microservices.
+-  I am skilled in Java ,Spring Boot ,MySql, NoSql, Kafka, C/C++ , Data Structures and Algorithms, Object Oriented Programming.
+-  I have also worked with Python , Pandas, React.js, Druid, Elastic Search, Logstash, Machine learning, Neural Networks.
+-  I have tried to collect all my personal project demos in repostories demos-backend and demos-frontend.
+-  demos-frontend is a React.Js project 
+-  demos-backend is a Spring Boot/Java project
+-  Both are deployed on Heroku https://abbas-ali.herokuapp.com/
