@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Abbas Ali 
 -  I graduated from BITS Pilani in 2020( B.E Computer Science).
--  Currently working at Media.net as a Software Developer Engineer.
+-  I am currently working  as a <b>Software Developer Engineer</b> at Media.net.
 -  I enjoy solving algorithmic problems and designing scalable and robust microservices.
 -  I am skilled in Java ,Spring Boot ,MySql, NoSql, Kafka, C/C++ , Data Structures and Algorithms, Object Oriented Programming.
 -  I have also worked with Python ,Pandas, React.js, Druid, Elastic Search, Logstash, Machine learning, Neural Networks.
--  I have tried to collect all my personal project demos in repostories: demos-backend , demos-frontend
--  demos-frontend is a React.Js project 
--  demos-backend is a Spring Boot/Java project
+-  I have tried to collect all my personal project demos in repostories: [demos-backend](https://github.com/abbastriesgit/demos-backend) , [demos-frontend](https://github.com/abbastriesgit/demos-frontend)
+-  [demos-frontend](https://github.com/abbastriesgit/demos-frontend) is a React.Js project 
+-  [demos-backend](https://github.com/abbastriesgit/demos-backend) is a Spring Boot/Java project
 -  Both are deployed on Heroku : [Frontend](https://abbas-ali.herokuapp.com/) [Backend](https://abbas-ali-backend.herokuapp.com/swagger-ui/#/])
